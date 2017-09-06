@@ -1,0 +1,9 @@
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\bin\Debug\netcoreapp1.1\MVCPresentation.deps.json
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\bin\Debug\netcoreapp1.1\MVCPresentation.runtimeconfig.json
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\bin\Debug\netcoreapp1.1\MVCPresentation.runtimeconfig.dev.json
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\bin\Debug\netcoreapp1.1\MVCPresentation.dll
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\bin\Debug\netcoreapp1.1\MVCPresentation.pdb
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\obj\Debug\netcoreapp1.1\MVCPresentation.csprojResolveAssemblyReference.cache
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\obj\Debug\netcoreapp1.1\MVCPresentation.AssemblyInfo.cs
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\obj\Debug\netcoreapp1.1\MVCPresentation.dll
+c:\users\wilzav\documents\visual studio 2017\Projects\MVCPresentation\MVCPresentation\obj\Debug\netcoreapp1.1\MVCPresentation.pdb
